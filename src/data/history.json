@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Member Technical",
+    "organisation": "ADP",
+    "startDate": "Aug, 2021",
+    "endDate": "Dec 2023",
+    "experiences": ["Worked on the Health And Welfare Service Engine, a platform used to configure employee benefits such as insurance plans and stock options, and facilitate open enrollment periods through the MYADP dashboard.", " Responsibilities include developing, testing, and deploying features as per business requirements in a fast-paced agile environment."]
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Mphasis",
+    "startDate": "June, 2021",
+    "endDate": "July, 2021",
+    "experiences": ["Implemented a backend API endpoint to search based filters that improved the user experience by 30%."],
+    "imageSrc": "../../assects/ex/mphasis.png"
+  }
+]

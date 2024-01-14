@@ -1,0 +1,23 @@
+[
+  
+    {
+      "title": "Q and A service",
+      "imageSrc": "projects/project.png",
+      "description": "A website to post questions and answers",
+      "skills": ["Java", "Spring Boot", "MongoDB" ]
+      
+      
+    },
+    {
+      "title": "Path Finding Visualizer",
+      "imageSrc": "projects/project.png",
+      "description": "Website to visualize BFS Algorithm",
+      "skills": ["React", "HTML", "CSS"]
+    },
+    {
+      "title": "Food Court",
+      "imageSrc": "projects/project.png",
+      "description": "Developed website to place food order at ADP. ",
+      "skills": ["Java", "Spring Boot","SQL","Kafka" ]
+    }
+  ]
